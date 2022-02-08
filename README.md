@@ -18,6 +18,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/subhasishswainofficial#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/subhasishswainofficial#gh-dark-mode-only)
 
+&nbsp;
+
 ### Languages and Tools:
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img align="left" style="padding-right:10px;" src="/img/angular.svg" alt="angular" width="26px" /> </a> 
@@ -43,6 +45,6 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img align="left" style="padding-right:10px;" src="/img/angular.svg" alt="angular" width="26px" /> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img align="left" style="padding-right:50px;" src="/img/angular.svg" alt="angular" width="26px" /> </a> 
 
-</br>&nbsp;&nbsp;
+</br>&nbsp;&nbsp;&nbsp;
 
 ![methedjangoguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=methedjangoguy&show_icons=true&theme=onedark)
