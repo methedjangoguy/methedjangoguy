@@ -19,7 +19,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/subhasishswainofficial#gh-dark-mode-only)
 
 ### Languages and Tools:
-
+</br>&nbsp;&nbsp;
 <img align="left" alt="Angular" width="26px" src="./img/angular.svg" style="padding-right:10px;"/>
 <img align="left" alt="Asp.Net Core" width="26px" src="./img/dot-net-core-7.svg" style="padding-right:10px;" />
 <img align="left" alt="Microsoft Azure" width="26px" src="./img/azure.svg" style="padding-right:10px;" />
@@ -42,6 +42,7 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="./img/visualstudio.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code.svg" />
+
 </br>&nbsp;&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=methedjangoguy&" alt="methedjangoguy"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=methedjangoguy&show_icons=true&locale=en&layout=compact" alt="methedjangoguy"/>
