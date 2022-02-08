@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I think I am funny
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=methedjangoguy&label=Profile%20views&color=0e75b6&style=flat" alt="methedjangoguy" /> </p>
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/iSUBHASISHSWAIN#gh-light-mode-only)
@@ -39,4 +39,5 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=methedjangoguy&show_icons=true&locale=en" alt="methedjangoguy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=methedjangoguy&show_icons=true&locale=en&layout=compact" alt="methedjangoguy" /></p>
