@@ -46,7 +46,6 @@
 <a href="https://www.python.org/doc/essays/blurb/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/python.svg" alt="Python" width="26px"/> </a> &nbsp;
 <a href="https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.htm" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/scikit-learn.svg" alt="Sklearn" width="26px"/> </a> &nbsp;
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/tensorflow.svg" alt="Tensorflow" width="26px"/> </a> &nbsp;
-<a href="https://www.tutorialspoint.com/typescript/typescript_overview.htm" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/typescript.svg" alt="Typescript" width="26px"/> </a> &nbsp;
 <a href="https://www.geeksforgeeks.org/introduction-to-visual-studio/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visualstudio.svg" alt="Visual Studio" width="26px"/> </a> &nbsp;
 <a href="https://www.educba.com/what-is-visual-studio-code/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visual-studio-code.svg" alt="Visual Studio Code" width="26px"/> </a> &nbsp;
 </p>
