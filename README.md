@@ -27,26 +27,29 @@
 <p align="left"> 
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/dot-net-core-7.svg" alt="Asp.Net Core" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/azure.svg" alt="Microsoft Azure" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/bootstrap.svg" alt="BootStrap" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/csharp.svg" alt="C#" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/css3.svg" alt="CSS3" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/django.svg" alt="Django" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/docker.svg" alt="Docker" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/git.svg" alt="Git" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/github.svg" alt="GitHub" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/html.svg" alt="Html" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/jenkins.svg" alt="Jenkins" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/microsoft-sql-server.svg" alt="Microsoft SQL Server" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/mongodb.svg" alt="Mongodb" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/node-js.svg" alt="Node.js" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/adobe-photoshop.svg" alt="Adobe Photoshop" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/postman.svg" alt="Postman" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/python.svg" alt="Python" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/scikit-learn.svg" alt="Sklearn" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/tensorflow.svg" alt="Tensorflow" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/terminal.svg" alt="Terminal" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/typescript.svg" alt="Typescript" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visualstudio.svg" alt="Visual Studio" width="26px"/> </a> &nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visual-studio-code.svg" alt="Visual Studio Code" width="26px"/> </a> &nbsp;
 </p>
 
 ---
