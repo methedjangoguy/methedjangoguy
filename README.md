@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Subhasish aka methedjangoguy</h1>
 <h3 align="center">A passionate software developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=methedjangoguy&label=Profile%20views&color=0e75b6&style=flat" alt="methedjangoguy" /> </p>
 
 - 🌱 I’m currently learning everything 🤣
@@ -53,13 +53,4 @@
 </p>
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img style="padding-right:10px;" align="left" alt="methedjangoguy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=methedjangoguy&hide=contribs,prs&theme=radical&show_icons=true" />  
-</details>
-
-<details>
-  <summary>:zap: Language Stats</summary>
-  <img style="padding-right:10px;" align="left" alt="methedjangoguy's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&langs_count=8&theme=radical" /> 
-</details>
+>Keep Smiling and work harder.
