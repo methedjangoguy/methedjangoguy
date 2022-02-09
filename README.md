@@ -26,6 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/anaconda.png" alt="anaconda" width="26px"/> </a> &nbsp;
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
 <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/dotnetcore.svg" alt="Asp.Net Core" width="26px"/> </a> &nbsp;
 <a href="https://azure.microsoft.com/en-in/overview/what-is-azure/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/azure.svg" alt="Microsoft Azure" width="26px"/> </a> &nbsp;
