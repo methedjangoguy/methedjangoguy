@@ -30,7 +30,6 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
 <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/dotnetcore.svg" alt="Asp.Net Core" width="26px"/> </a> &nbsp;
 <a href="https://azure.microsoft.com/en-in/overview/what-is-azure/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/azure.svg" alt="Microsoft Azure" width="26px"/> </a> &nbsp;
-<a href="https://www.codecademy.com/resources/blog/what-is-bootstrap/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/bootstrap.svg" alt="BootStrap" width="26px"/> </a> &nbsp;
 <a href="https://www.c-sharpcorner.com/article/what-is-c-sharp/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/csharp.svg" alt="C#" width="26px"/> </a> &nbsp;
 <a href="https://www.w3schools.com/whatis/whatis_css.asp" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/css3.svg" alt="CSS3" width="26px"/> </a> &nbsp;
 <a href="https://www.pythonforbeginners.com/learn-python/what-is-django" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/django.svg" alt="Django" width="26px"/> </a> &nbsp;
@@ -47,11 +46,9 @@
 <a href="https://www.python.org/doc/essays/blurb/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/python.svg" alt="Python" width="26px"/> </a> &nbsp;
 <a href="https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.htm" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/scikit-learn.svg" alt="Sklearn" width="26px"/> </a> &nbsp;
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/tensorflow.svg" alt="Tensorflow" width="26px"/> </a> &nbsp;
-<a href="https://www.computerhope.com/jargon/t/terminal.htm" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/terminal.svg" alt="Terminal" width="26px"/> </a> &nbsp;
 <a href="https://www.tutorialspoint.com/typescript/typescript_overview.htm" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/typescript.svg" alt="Typescript" width="26px"/> </a> &nbsp;
 <a href="https://www.geeksforgeeks.org/introduction-to-visual-studio/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visualstudio.svg" alt="Visual Studio" width="26px"/> </a> &nbsp;
 <a href="https://www.educba.com/what-is-visual-studio-code/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visual-studio-code.svg" alt="Visual Studio Code" width="26px"/> </a> &nbsp;
 </p>
-
 ---
 >Keep Smiling and work harder.
