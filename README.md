@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **subhamsv96@gmail.com**
 
-- 🧑🏼‍💻 Check Out more About me **subhasishswainofficial.vercel.app**
-
 - ⚡ Fun fact **I think I am funny.**
+
+- 🧑🏼‍💻 [Click here to know More](subhasishswainofficial.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 
