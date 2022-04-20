@@ -23,6 +23,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/subhasishswainofficial#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/subhasishswainofficial#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/whatsapp-light.svg)](https://wa.link/wrjbgn#gh-light-mode-only)
+[![website](./img/whatsapp-dark.svg)](https://wa.link/wrjbgn#gh-dark-mode-only)
 
 ---
 <h3 align="left">Languages and Tools:</h3>
