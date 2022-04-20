@@ -27,8 +27,8 @@
 [![website](./img/whatsapp-light.svg)](https://wa.link/wrjbgn#gh-light-mode-only)
 [![website](./img/whatsapp-dark.svg)](https://wa.link/wrjbgn#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/whatsapp-light.svg)](https://wa.link/wrjbgn#gh-light-mode-only)
-[![website](./img/whatsapp-dark.svg)](https://wa.link/wrjbgn#gh-dark-mode-only)
+[![website](./img/website-light.png)](https://wa.link/wrjbgn#gh-light-mode-only)
+[![website](./img/website-dark.png](https://wa.link/wrjbgn#gh-dark-mode-only)
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
