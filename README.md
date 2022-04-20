@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **subhamsv96@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am funny**
 
 - 🧑🏼‍💻 [Click here to know More](https://subhasishswainofficial.vercel.app/)
 
@@ -27,9 +27,8 @@
 [![website](./img/whatsapp-light.svg)](https://wa.link/wrjbgn#gh-light-mode-only)
 [![website](./img/whatsapp-dark.svg)](https://wa.link/wrjbgn#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/website-light.png)](https://subhasishswainofficial.vercel.app/#gh-light-mode-only)
-[![website](./img/website-dark.png](https://subhasishswainofficial.vercel.app/#gh-dark-mode-only)
-
+[![website](./img/website-light.png)](https://wa.link/wrjbgn#gh-light-mode-only)
+[![website](./img/website-dark.png)](https://wa.link/wrjbgn#gh-dark-mode-only)
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
