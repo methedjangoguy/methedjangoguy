@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **subhamsv96@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am funny**
 
 - 🧑🏼‍💻 [Click here to know More](https://subhasishswainofficial.vercel.app/)
 
