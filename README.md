@@ -11,21 +11,12 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- 🧑🏼‍💻 [Click here to know More](https://subhasishswainofficial.vercel.app/)
+- 🧑🏼‍💻 Check out my portfolio at [subhasishswainofficial](https://subhasishswainofficial.vercel.app/).
 
 <h3 align="left">Connect with me:</h3>
 
-[![website](./img/twitter-light.svg)](https://twitter.com/iSUBHASISHSWAIN#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/iSUBHASISHSWAIN#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/subhswain#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/subhswain#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/subhasishswainofficial#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/subhasishswainofficial#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/whatsapp-light.svg)](https://wa.link/wrjbgn#gh-light-mode-only)
-[![website](./img/whatsapp-dark.svg)](https://wa.link/wrjbgn#gh-dark-mode-only)
+
+<p align="left"> <a href="https://www.facebook.com/subhasishswain096" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/methedjangoguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/subhasishswainofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/subhswain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iSUBHASISHSWAIN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -55,5 +46,14 @@
 <a href="https://www.educba.com/what-is-visual-studio-code/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visual-studio-code.svg" alt="Visual Studio Code" width="26px"/> </a> &nbsp;
 </p>
 
+<h3 align="left">Badges:</h3>
+
+<a href="http://www.github.com/methedjangoguy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=methedjangoguy&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/methedjangoguy"><img src="https://github-readme-stats.vercel.app/api?username=methedjangoguy&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="methedjangoguy's GitHub stats" /></a>
+
+<a href="https://github.com/methedjangoguy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/methedjangoguy"><img src="https://activity-graph.herokuapp.com/graph?username=methedjangoguy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ---
 >Keep Smiling and work harder.
