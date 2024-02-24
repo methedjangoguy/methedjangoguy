@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hi there! I'm Subhasish, a passionate Python Developer with 3+ years of experience in Software Development & Automation. I'm skilled in Automation, Python Development, Data Analysis and enjoy working on projects related to Data Engineering. I'm always eager to learn new things and collaborate with others.
 
+Python Programmer Extraordinaire
+
+Hi there! I'm Subhasish, a passionate Python Developer with 3+ years of experience in Software Development & Automation. I'm skilled in Automation, Python Development, Data Analysis and enjoy working on projects related to Data Engineering. I'm always eager to learn new things and collaborate with others.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhasishswain096) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhasishswainofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhswain) 
