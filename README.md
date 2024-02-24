@@ -14,9 +14,6 @@ Hi there! I'm Subhasish, a passionate Python Developer with 3+ years of experien
 ![](https://github-readme-streak-stats.herokuapp.com/?user=methedjangoguy&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=methedjangoguy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=methedjangoguy&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
