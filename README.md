@@ -1,59 +1,27 @@
-[![MasterHead](./img/Background.jpg)](https://linkedin.com/in/subhswain)
-<h1 align="center">Hi there👋, I'm Subhasish aka methedjangoguy</h1>
-<h3 align="center">A passionate software developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-- 🌱 I’m currently learning everything 🤣
-
-- 💬 Ask me about **Dot net, Python, Machine Learning, Angular**
-
-- 📫 How to reach me **subhamsv96@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-- 🧑🏼‍💻 Check out my portfolio at [subhasishswainofficial](https://subhasishswainofficial.vercel.app/).
-
-<h3 align="left">Connect with me:</h3>
+# 💫 About Me:
+Hi there! I'm Subhasish, a passionate Python Developer with 3+ years of experience in Software Development & Automation. I'm skilled in Automation, Python Development, Data Analysis and enjoy working on projects related to Data Engineering. I'm always eager to learn new things and collaborate with others.
 
 
-<p align="left"> <a href="https://www.facebook.com/subhasishswain096" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/methedjangoguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/subhasishswainofficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/subhswain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iSUBHASISHSWAIN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhasishswain096) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhasishswainofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhswain) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=methedjangoguy&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=methedjangoguy&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=methedjangoguy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=methedjangoguy&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+[![](https://visitcount.itsvg.in/api?id=methedjangoguy&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/anaconda.png" alt="anaconda" width="26px"/> </a> &nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/angular.svg" alt="angular" width="26px"/> </a> &nbsp;
-<a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/dotnetcore.svg" alt="Asp.Net Core" width="26px"/> </a> &nbsp;
-<a href="https://azure.microsoft.com/en-in/overview/what-is-azure/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/azure.svg" alt="Microsoft Azure" width="26px"/> </a> &nbsp;
-<a href="https://www.c-sharpcorner.com/article/what-is-c-sharp/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/csharp.svg" alt="C#" width="26px"/> </a> &nbsp;
-<a href="https://www.w3schools.com/whatis/whatis_css.asp" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/css3.svg" alt="CSS3" width="26px"/> </a> &nbsp;
-<a href="https://www.pythonforbeginners.com/learn-python/what-is-django" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/django.svg" alt="Django" width="26px"/> </a> &nbsp;
-<a href="https://www.ibm.com/cloud/learn/docker" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/docker.svg" alt="Docker" width="26px"/> </a> &nbsp;
-<a href="https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/git.svg" alt="Git" width="26px"/> </a> &nbsp;
-<a href="https://www.w3schools.com/whatis/whatis_github.asp" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/github.svg" alt="GitHub" width="26px"/> </a> &nbsp;
-<a href="https://www.w3schools.com/whatis/whatis_html.asp" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/html.svg" alt="Html" width="26px"/> </a> &nbsp;
-<a href="https://www.tutorialspoint.com/jenkins/jenkins_overview.htm" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/jenkins.svg" alt="Jenkins" width="26px"/> </a> &nbsp;
-<a href="https://www.tutorialspoint.com/ms_sql_server/ms_sql_server_overview.htm" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/microsoft-sql-server.svg" alt="Microsoft SQL Server" width="26px"/> </a> &nbsp;
-<a href="https://www.mongodb.com/what-is-mongodb" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/mongodb.svg" alt="Mongodb" width="26px"/> </a> &nbsp;
-<a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/node-js.svg" alt="Node.js" width="26px"/> </a> &nbsp;
-<a href="https://www.guru99.com/introduction-to-photoshop-cc.html" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/adobe-photoshop.svg" alt="Adobe Photoshop" width="26px"/> </a> &nbsp;
-<a href="https://www.postman.com/product/what-is-postman/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/postman.svg" alt="Postman" width="26px"/> </a> &nbsp;
-<a href="https://www.python.org/doc/essays/blurb/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/python.svg" alt="Python" width="26px"/> </a> &nbsp;
-<a href="https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.htm" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/scikit-learn.svg" alt="Sklearn" width="26px"/> </a> &nbsp;
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/tensorflow.svg" alt="Tensorflow" width="26px"/> </a> &nbsp;
-<a href="https://www.geeksforgeeks.org/introduction-to-visual-studio/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visualstudio.svg" alt="Visual Studio" width="26px"/> </a> &nbsp;
-<a href="https://www.educba.com/what-is-visual-studio-code/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="./img/visual-studio-code.svg" alt="Visual Studio Code" width="26px"/> </a> &nbsp;
-</p>
-
-<h3 align="left">Badges:</h3>
-
-<a href="http://www.github.com/methedjangoguy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=methedjangoguy&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/methedjangoguy"><img src="https://github-readme-stats.vercel.app/api?username=methedjangoguy&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="methedjangoguy's GitHub stats" /></a>
-
-<a href="https://github.com/methedjangoguy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/methedjangoguy"><img src="https://activity-graph.herokuapp.com/graph?username=methedjangoguy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
----
->Keep Smiling and work harder.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
