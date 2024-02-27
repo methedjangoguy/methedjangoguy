@@ -17,6 +17,8 @@ Python Programmer Extraordinaire<br><br>Hi there! I'm Subhasish, a passionate Py
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=methedjangoguy&theme=whatsapp-dark&hide_border=true&border_radius=6.3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=468)](https://git.io/streak-stats)
 
+<a href="https://github.com/methedjangoguy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
 <!-- ### 📎 Github PINS
 [![github_dark](https://github-readme-stats.vercel.app/api/pin/?username=methedjangoguy&repo=YouTube-Data-Analysis&cache_seconds=86400&theme=github_dark)](https://github.com/methedjangoguy/YouTube-Data-Analysis) -->
 
