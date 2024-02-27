@@ -11,14 +11,14 @@ Python Programmer Extraordinaire<br><br>Hi there! I'm Subhasish, a passionate Py
 <!-- ![](https://github-readme-stats.vercel.app/api?username=methedjangoguy&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=methedjangoguy&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
-| ![stats](https://github-readme-stats.vercel.app/api?username=methedjangoguy&show_icons=true&theme=radical) | [![Stri](https://streak-stats.demolab.com?user=methedjangoguy&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+<!-- | ![stats](https://github-readme-stats.vercel.app/api?username=methedjangoguy&show_icons=true&theme=radical) | [![Stri](https://streak-stats.demolab.com?user=methedjangoguy&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&layout=compact&&show_icons=true&theme=radical)](https://github.com/methedjangoguy/github-readme-stats) | 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&layout=compact&&show_icons=true&theme=radical)](https://github.com/methedjangoguy/github-readme-stats) |  -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=methedjangoguy&theme=github-dark&hide_border=true&border_radius=6.3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=468)](https://git.io/streak-stats)
 
 ### Github PINS
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=methedjangoguy&repo=YouTube-Data-Analysis&show_owner=true)](https://github.com/methedjangoguy/YouTube-Data-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=methedjangoguy&repo=YouTube-Data-Analysis&show_owner=true&theme=github-dark)](https://github.com/methedjangoguy/YouTube-Data-Analysis)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
