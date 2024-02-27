@@ -19,11 +19,7 @@ Python Programmer Extraordinaire<br><br>Hi there! I'm Subhasish, a passionate Py
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&langs_count=8&theme=github-dark)
 
 ### Github PINS
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=methedjangoguy&repo=YouTube-Data-Analysis&show_owner=true&theme=github-dark)](https://github.com/methedjangoguy/YouTube-Data-Analysis)
-
-### Wakatime Week Stats
-
-[![methedjangoguy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=methedjangoguy)](https://github.com/methedjangoguy/YouTube-Data-Analysis)
+[![github_dark](https://github-readme-stats.vercel.app/api/pin/?username=methedjangoguy&repo=YouTube-Data-Analysis&show_owner=true&theme=github-dark)](https://github.com/methedjangoguy/YouTube-Data-Analysis)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
