@@ -13,7 +13,7 @@ Python Programmer Extraordinaire<br><br>Hi there! I'm Subhasish, a passionate Py
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 | ![stats](https://github-readme-stats.vercel.app/api?username=methedjangoguy&show_icons=true&theme=radical) | [![Stri](https://streak-stats.demolab.com?user=methedjangoguy&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methedjangoguy&layout=compact&&show_icons=true&theme=radical)](https://github.com/methedjangoguy/github-readme-stats) | 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
