@@ -79,7 +79,6 @@ Python Programmer Extraordinaire<br><br>Hi there! I'm Subhasish, a passionate Py
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=methedjangoguy&icon=6&color=0)](https://visitcount.itsvg.in)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=methedjangoguy.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-[![](https://visitcount.itsvg.in/api?id=methedjangoguy&label=Hello%20Visitors&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=methedjangoguy&label=Hello%20Visitors&icon=2&color=0&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=methedjangoguy&label=Hello%20Visitors&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
