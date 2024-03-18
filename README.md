@@ -78,6 +78,7 @@ Python Programmer Extraordinaire<br><br>Hi there! I'm Subhasish, a passionate Py
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+<img src="https://raw.githubusercontent.com/methedjangoguy/methedjangoguy/output/snake.svg" alt="Snake animation" />
 
 [![](https://visitcount.itsvg.in/api?id=methedjangoguy&label=Hello%20Visitors&icon=2&color=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- [![](https://visitcount.itsvg.in/api?id=methedjangoguy&label=Hello%20Visitors&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in) -->
